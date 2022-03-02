@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 <img align='right' src="https://media.giphy.com/media/rsUGLKwgSvSxmq1VrZ/giphy.gif" width="230">
 <!-- <img align='right' src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="230"> -->
 
-<p>
+<h3>
   <b>Software Engineer 👩‍💻 at <a href="https://geekyants.com/"> geekyants.com </a></b>
-</p>
+</h3>
 
 <div>
 <img src="https://media.giphy.com/media/SUcApSWjPwQMARvcM8/giphy.gif" width="150">
